@@ -19,7 +19,7 @@ div.ex1 {
     width: 851px;
     margin: auto;
     float: center;
-    border: 6px solid darkgray;
+    border: 6px solid darkgoldenrod;
     background-color: #FFFFFF;
 }
 
@@ -34,7 +34,7 @@ div.ex1 {
   /* here. Your image should be   */
   /* 815px wide and 315px high.   */
   header {
-    background-image: url("../images/burruss.jpg");
+    background-image: url("../images/saga-covers-cropped.jpeg");
     width: 851px;
     height: 315px;
     background-repeat: no-repeat;
@@ -90,7 +90,8 @@ div.ex1 {
     margin: 0;
     padding-top: 15px;
     font-family: Sans-Serif;
-    color: white;
+    color: gold;
+    text-align: center;
   }
 
 .site-footer{
@@ -122,13 +123,13 @@ overflow: hidden;
   font-weight: normal;
   padding: 0px 5px;
   font-size: 18px;
-  color: #fff;
+  color: mediumslateblue;
   text-decoration: none;
 }
 
 /* Change the highlight     */
 /* color of the menu below */
 .site-menu a:hover {
-  color: orange;
+  color: white;
   text-decoration: none;
 }
