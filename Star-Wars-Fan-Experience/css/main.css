@@ -20,7 +20,7 @@ div.ex1 {
     margin: auto;
     float: center;
     border: 6px solid darkgoldenrod;
-    background-color: #FFFFFF;
+    background-color: #000;
 }
 
   body {
@@ -80,7 +80,11 @@ div.ex1 {
   }
 
   p {
-    color: #000;
+    color: #FFF;
+  }
+
+  li {
+    color: #FFF
   }
 
   /* Additions to support the external */
